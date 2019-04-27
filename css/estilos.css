@@ -1,0 +1,17 @@
+/*
+Selector
+ * Selector de etiqueta : header - section -article -nav
+ * Selector de desentendé : Body -> header -> div -> nav -> ol -> li -> a
+ * Selector de clase o id.
+   -    .nombredeclase
+   -    #nombredelid
+
+Declaración : todo lo que esta dentro de las llaves , compuestas de 
+propiedades y valores.
+ */
+
+header{
+    background : pink;
+}
+
+
