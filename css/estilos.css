@@ -10,8 +10,30 @@ Declaración : todo lo que esta dentro de las llaves , compuestas de
 propiedades y valores.
  */
 
-header{
+/* header{
     background : pink;
+    color: red;
+} */
+
+body{
+  font-family: 'Source Sans Pro' , sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Fjalla One' , sans-serif;
+  font-weight: normal;
+  /* font-style: italic; tipo de tipografia */
+}
 
+h1{
+  font-size: 40px;
+  line-height: 1.5em;
+  letter-spacing: -.2px; /*  segun recomendaciones debe ser negativo */
+ /* text-transform: capitalize; Transforma el texto en el tipo de tu gusto */
+  /* text-decoration: dashed;
+} */
